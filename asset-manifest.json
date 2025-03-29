@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/project2-Youtube-clone-deploy/static/css/main.efdaa40a.css",
+    "main.js": "/project2-Youtube-clone-deploy/static/js/main.cea3f475.js",
+    "static/js/453.79faa093.chunk.js": "/project2-Youtube-clone-deploy/static/js/453.79faa093.chunk.js",
+    "static/media/user5.PNG": "/project2-Youtube-clone-deploy/static/media/user5.616156b6015c8c48ffd2.PNG",
+    "static/media/user4.PNG": "/project2-Youtube-clone-deploy/static/media/user4.3306479c9fcf4f9cfec3.PNG",
+    "static/media/user2.PNG": "/project2-Youtube-clone-deploy/static/media/user2.565d36ba3864b04dd778.PNG",
+    "static/media/user3.PNG": "/project2-Youtube-clone-deploy/static/media/user3.59344ca43fd4d17fd309.PNG",
+    "static/media/thumbnail4.png": "/project2-Youtube-clone-deploy/static/media/thumbnail4.e34afa6c5561f3117302.png",
+    "static/media/thumbnail8.png": "/project2-Youtube-clone-deploy/static/media/thumbnail8.80d857e9c212045f6efb.png",
+    "static/media/thumbnail1.png": "/project2-Youtube-clone-deploy/static/media/thumbnail1.91aa5ce73fc8255c007b.png",
+    "static/media/thumbnail5.png": "/project2-Youtube-clone-deploy/static/media/thumbnail5.9a1043ddda8747245faf.png",
+    "static/media/thumbnail3.png": "/project2-Youtube-clone-deploy/static/media/thumbnail3.f0474d5b6e63a0eec5da.png",
+    "static/media/user1.PNG": "/project2-Youtube-clone-deploy/static/media/user1.f510f15cc9ce38cd9676.PNG",
+    "static/media/thumbnail7.png": "/project2-Youtube-clone-deploy/static/media/thumbnail7.2409c5eef5ea0b8c2130.png",
+    "static/media/thumbnail6.png": "/project2-Youtube-clone-deploy/static/media/thumbnail6.922e46bb7429a189f630.png",
+    "static/media/thumbnail2.png": "/project2-Youtube-clone-deploy/static/media/thumbnail2.a7ae1c5718ce05f4c2f4.png",
+    "static/media/ck-laha.jpeg": "/project2-Youtube-clone-deploy/static/media/ck-laha.c4bce5d929b47bbe19e1.jpeg",
+    "index.html": "/project2-Youtube-clone-deploy/index.html",
+    "main.efdaa40a.css.map": "/project2-Youtube-clone-deploy/static/css/main.efdaa40a.css.map",
+    "main.cea3f475.js.map": "/project2-Youtube-clone-deploy/static/js/main.cea3f475.js.map",
+    "453.79faa093.chunk.js.map": "/project2-Youtube-clone-deploy/static/js/453.79faa093.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efdaa40a.css",
+    "static/js/main.cea3f475.js"
+  ]
+}
